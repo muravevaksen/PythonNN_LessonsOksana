@@ -1,0 +1,1 @@
+print(True + True) # True = 1, поэтому выведет 2
